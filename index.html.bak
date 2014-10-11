@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="01life : 数字生活">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>01life</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/binnancool/01life">View on GitHub</a>
+
+          <h1 id="project_title">01life</h1>
+          <h2 id="project_tagline">数字生活</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/binnancool/01life/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/binnancool/01life/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a name="%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB" class="anchor" href="#%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB"><span class="octicon octicon-link"></span></a><h1>
+<a name="%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB-1" class="anchor" href="#%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB-1"><span class="octicon octicon-link"></span></a>数字生活</h1>
+</h1>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">01life maintained by <a href="https://github.com/binnancool">binnancool</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-55613719-3");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+
+  </body>
+</html>
