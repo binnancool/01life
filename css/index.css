@@ -544,11 +544,7 @@ body{
     border:1px solid #fff;
     background:#efefef;
 }
-.title{
-    height:42px;
-    position:relative;
-    padding:0 15px;
-}
+
 .title h3{
     background-position:0 -100px;
     color:#fff;
@@ -873,4 +869,102 @@ a{
 	font-size: 12px;
 	font-family: 宋体;
 	line-height: 20px;
+}
+
+#cools {
+	min-height: 770px;
+	padding-bottom: 20px;
+	width: 960px;
+	margin: 0 auto;
+}
+#cools ul {
+	position: relative;
+	width: 100%
+}
+
+#cools ul .more {
+	margin-right: 10px;
+	position: absolute;
+	right: 0
+}
+
+.sub-title-cool {
+	display: inline-block;
+	float: left;
+	margin-right: 20px;
+	padding-left: 20px;
+	zoom: 1
+}
+
+.cool_links {
+	display: inline-block;
+	float: left;
+	margin-right: 24px;
+	*display: inline;
+	zoom: 1
+}
+#cools .title {
+	height: 22px;
+	line-height: 22px
+}
+#cools .section {
+	padding-top: 5px
+}
+
+#cools .title span {
+	display: inline-block;
+	height: 22px;
+	line-height: 22px;
+	padding-left: 0;
+	vertical-align: top;
+	width: 150px;
+	font-weight: bold;
+	font-size:15px;
+}
+.title {
+	background: #fb3;
+	color: white;
+	font-weight: bold
+	width:100%
+}
+
+#tools,#cates,#greats,#ent-channel,#sport-channel,#tech-channel,#cools {
+	margin-bottom: 10px
+}
+.links-box-green {
+	border: solid 1px #9c0
+}
+.sub {
+	position: relative
+}
+.links-box li,.links-box ul {
+	display: inline-block;
+	zoom: 1;
+	*display: inline
+}
+a,a:link,a:hover,a:visited {
+	color: #000;
+	text-decoration: none
+}
+.section a {
+	display: inline-block;
+	height: 26px;
+	line-height: 26px;
+	overflow: hidden;
+	vertical-align: middle;
+	*display: inline;
+	zoom: 1
+}
+.sub-title-cool a {
+	color: green
+}
+
+.section a {
+	font-size: 14px
+}
+.sub-seprator {
+	border: 1px solid #e2ffca
+}
+.sub-seprator {
+	margin: 10px 0
 }
